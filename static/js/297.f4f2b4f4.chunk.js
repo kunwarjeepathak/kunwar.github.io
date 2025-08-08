@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqa_hub_react=self.webpackChunkqa_hub_react||[]).push([[297],{1297:(e,c,a)=>{a.d(c,{createArchitectureServices:()=>r.S});var r=a(4564);a(4455)}}]);
